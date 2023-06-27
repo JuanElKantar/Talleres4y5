@@ -1,4 +1,19 @@
 # Talleres4y5
+
+En el actual repositorio se realizaron las siguientes correcciones: 
+
+
+1. Crear el paquete Util y añadir la clase java "DBConnection".
+
+![image](https://github.com/JuanElKantar/Talleres4y5/assets/128154436/25d05720-b126-4e44-904d-febbb7090e4d)
+
+   
+2. Crear paquete Bean y añadir la clase java "User".
+
+   ![image](https://github.com/JuanElKantar/Talleres4y5/assets/128154436/09836cf5-f54d-4682-b6d7-e9f8c34b2450)
+
+
+
 En este repositorio se encontrarán los talleres 4 y 5 de Lenguaje Avanzado en Java, teniendo en cuenta las especificaciones dadas en el pdf y las vistas en clase.
 
 
