@@ -5,7 +5,8 @@ En el actual repositorio se realizaron las siguientes correcciones:
 
 1. Crear el paquete Util y añadir la clase java "DBConnection".
 
-![image](https://github.com/JuanElKantar/Talleres4y5/assets/128154436/25d05720-b126-4e44-904d-febbb7090e4d)
+![image](https://github.com/JuanElKantar/Talleres4y5/assets/128154436/ea675786-4683-4894-b351-f5965596e425)
+
 
    
 2. Crear paquete Bean y añadir la clase java "User".
