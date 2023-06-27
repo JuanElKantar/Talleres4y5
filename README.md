@@ -15,6 +15,10 @@ En el actual repositorio se realizaron las siguientes correcciones:
 
 
 
+
+![image](https://github.com/JuanElKantar/Talleres4-5Correciones/assets/128154436/e26084c9-19b4-4bbe-aee6-e78d3c049fae)
+
+
 En este repositorio se encontrarán los talleres 4 y 5 de Lenguaje Avanzado en Java, teniendo en cuenta las especificaciones dadas en el pdf y las vistas en clase.
 
 
